@@ -1,2 +1,26 @@
-# nvim
-my nvim config
+## installation
+
+make sure to backup your current config, then clone this repo to `./config/nvim`:
+
+```sh
+git clone https://github.com/aanesn/nvim.git ~/.config/nvim
+```
+
+## ghostty
+
+```toml
+background = "#000000"
+macos-titlebar-style = "tabs"
+macos-titlebar-proxy-icon = "hidden"
+title = " "
+font-family = "Iosevka Nerd Font"
+font-size = 16
+background-opacity = 0.8
+background-blur = true
+```
+
+## credits
+
+- config structure inspired by [tinyvim](https://github.com/NvChad/tinyvim)
+- lsp, cmp and format basically copied from [kickstart](https://github.com/nvim-lua/kickstart.nvim)
+- beautiful colorscheme made by [nyavim](https://github.com/anAcc22)
