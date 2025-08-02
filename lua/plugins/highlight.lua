@@ -18,6 +18,7 @@ return {
 			"yaml",
 			"markdown",
 			"gitignore",
+			"go",
 		},
 		auto_install = true,
 	},

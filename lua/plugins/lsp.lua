@@ -27,6 +27,7 @@ return {
 			svelte = {},
 			lua_ls = {},
 			pyright = {},
+			gopls = {},
 		}
 
 		local ensure_installed = vim.tbl_keys(servers or {})
