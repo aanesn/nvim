@@ -16,8 +16,8 @@ macos-titlebar-style = "tabs"
 macos-titlebar-proxy-icon = "hidden"
 title = " "
 font-family = "Iosevka Nerd Font"
-font-size = 16
-background-opacity = 0.8
+font-size = 15.5
+background-opacity = 0.75
 background-blur = true
 ```
 
