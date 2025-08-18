@@ -28,6 +28,7 @@ return {
 			lua_ls = {},
 			pyright = {},
 			gopls = {},
+			yamlls = {},
 		}
 
 		local ensure_installed = vim.tbl_keys(servers or {})
