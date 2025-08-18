@@ -21,5 +21,8 @@ return {
 			"go",
 		},
 		auto_install = true,
+		highlight = {
+			enable = true,
+		},
 	},
 }
