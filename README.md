@@ -1,4 +1,4 @@
-![image](https://pub-b0a99bf888b34aaf8ebc5b21b7df2dc7.r2.dev/nvim.png)
+![image](https://pub-b0a99bf888b34aaf8ebc5b21b7df2dc7.r2.dev/nvim-v3.png)
 
 ## installation
 
@@ -16,7 +16,7 @@ macos-titlebar-style = "tabs"
 macos-titlebar-proxy-icon = "hidden"
 title = " "
 font-family = "Iosevka Nerd Font"
-font-size = 15.5
+font-size = 15
 background-opacity = 0.75
 background-blur = true
 ```
