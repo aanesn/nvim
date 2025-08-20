@@ -9,6 +9,8 @@ vim.o.signcolumn = "yes"
 vim.o.shiftwidth = 4
 vim.o.tabstop = 4
 vim.o.expandtab = true
+vim.o.autoindent = true
+vim.o.smartindent = true
 
 -- persistent copy and undo
 vim.o.clipboard = "unnamedplus"
