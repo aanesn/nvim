@@ -17,7 +17,6 @@ return {
 			yaml = { "prettier" },
 			markdown = { "prettier" },
 			lua = { "stylua" },
-			go = { "gofmt" },
 		},
 	},
 }

@@ -27,7 +27,6 @@ return {
 			svelte = {},
 			lua_ls = {},
 			pyright = {},
-			gopls = {},
 			yamlls = {},
 		}
 
