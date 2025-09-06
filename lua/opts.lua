@@ -12,7 +12,7 @@ vim.o.expandtab = true
 vim.o.autoindent = true
 vim.o.smartindent = true
 
--- persistent undo + copy
+-- persistent undo and copy
 vim.o.undofile = true
 vim.o.clipboard = "unnamedplus"
 
