@@ -12,9 +12,9 @@ vim.o.expandtab = true
 vim.o.autoindent = true
 vim.o.smartindent = true
 
--- persistent copy and undo
-vim.o.clipboard = "unnamedplus"
+-- persistent undo + copy
 vim.o.undofile = true
+vim.o.clipboard = "unnamedplus"
 
 -- colors
 vim.o.termguicolors = true
