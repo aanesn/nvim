@@ -18,6 +18,7 @@ return {
 			"yaml",
 			"markdown",
 			"gitignore",
+			"ocaml",
 		},
 		auto_install = true,
 		highlight = {

@@ -17,6 +17,7 @@ return {
 			yaml = { "prettier" },
 			markdown = { "prettier" },
 			lua = { "stylua" },
+			ocaml = { "ocamlformat" },
 		},
 	},
 }
